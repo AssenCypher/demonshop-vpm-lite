@@ -5,7 +5,7 @@
   "packages": {
     "com.demonshop.demonpanel": {
       "versions": {
-        "1.0.1": {
+        "1.0.2": {
           "name": "com.demonshop.demonpanel",
           "displayName": "DemonPanel",
           "version": "1.0.2",
