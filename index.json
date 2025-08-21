@@ -3,6 +3,7 @@
   "name": "demonshop repo (lite)",
   "id": "com.demonshop.repo",
   "url": "https://raw.githubusercontent.com/AssenCypher/demonshop-vpm-lite/main/index.json",
+
   "packages": {
     "com.demonshop.demonpanel": {
       "versions": {
