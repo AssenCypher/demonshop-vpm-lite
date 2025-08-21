@@ -7,13 +7,13 @@
   "packages": {
     "com.demonshop.demonpanel": {
       "versions": {
-        "1.0.7": {
+        "1.0.8": {
           "name": "com.demonshop.demonpanel",
           "displayName": "DemonPanel",
-          "version": "1.0.7",
+          "version": "1.0.8",
           "unity": "2022.3",
           "unityRelease": "22f1",
-          "url": "https://github.com/AssenCypher/DemonPanel/releases/download/v1.0.7/com.demonshop.demonpanel-1.0.7.zip",
+          "url": "https://github.com/AssenCypher/DemonPanel/releases/download/v1.0.8/com.demonshop.demonpanel-1.0.8.zip",
           "vpmDependencies": {
             "com.vrchat.worlds": "3.x"
           }
