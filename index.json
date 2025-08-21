@@ -8,6 +8,15 @@
   "packages": {
     "com.demonshop.demonpanel": {
       "versions": {
+        "1.1.10": {
+          "name": "com.demonshop.demonpanel",
+          "displayName": "DemonPanel",
+          "version": "1.1.10",
+          "unity": "2022.3",
+          "unityRelease": "22f1",
+          "url": "https://assencypher.github.io/demonshop-vpm-lite/releases/com.demonshop.demonpanel-1.1.10.zip",
+          "vpmDependencies": { "com.vrchat.worlds": "3.x" }
+        },
         "1.0.9": {
           "name": "com.demonshop.demonpanel",
           "displayName": "DemonPanel",
