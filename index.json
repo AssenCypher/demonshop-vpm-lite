@@ -3,20 +3,17 @@
   "name": "demonshop repo (lite)",
   "id": "com.demonshop.repo",
   "url": "https://raw.githubusercontent.com/AssenCypher/demonshop-vpm-lite/main/index.json",
-
   "packages": {
     "com.demonshop.demonpanel": {
       "versions": {
-        "1.0.8": {
+        "1.0.9": {
           "name": "com.demonshop.demonpanel",
           "displayName": "DemonPanel",
-          "version": "1.0.8",
+          "version": "1.0.9",
           "unity": "2022.3",
           "unityRelease": "22f1",
-          "url": "https://github.com/AssenCypher/DemonPanel/releases/download/v1.0.8/com.demonshop.demonpanel-1.0.8.zip",
-          "vpmDependencies": {
-            "com.vrchat.worlds": "3.x"
-          }
+          "url": "https://github.com/AssenCypher/DemonPanel/releases/download/v1.0.9/com.demonshop.demonpanel-1.0.9.zip",
+          "vpmDependencies": { "com.vrchat.worlds": "3.x" }
         }
       }
     }
