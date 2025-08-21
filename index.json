@@ -14,7 +14,7 @@
           "version": "1.0.9",
           "unity": "2022.3",
           "unityRelease": "22f1",
-          "url": "https://github.com/AssenCypher/DemonPanel/releases/download/v1.0.9/com.demonshop.demonpanel-1.0.9.zip",
+          "url": "https://cdn.jsdelivr.net/gh/AssenCypher/demonshop-vpm-lite@main/releases/com.demonshop.demonpanel-1.0.9.zip",
           "vpmDependencies": { "com.vrchat.worlds": "3.x" }
         }
       }
