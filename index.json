@@ -1,8 +1,9 @@
 {
   "repoVersion": 1,
   "name": "demonshop repo (lite)",
+  "author": { "name": "E-Mommy", "url": "https://github.com/AssenCypher" },
   "id": "com.demonshop.repo",
-  "url": "https://raw.githubusercontent.com/AssenCypher/demonshop-vpm-lite/main/index.json",
+  "url": "https://assencypher.github.io/demonshop-vpm-lite/index.json",
 
   "packages": {
     "com.demonshop.demonpanel": {
